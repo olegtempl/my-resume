@@ -2,15 +2,19 @@
 
 ## Опыт в программировании
 
-### Javascript ( js-core, js-DOM, VueJs, NodeJs)
+### Javascript ( js-core, js-DOM, VueJs)
 
 В начале февраля 2018 вступил в проект Личбавая [Майстерня](https://it.falanster.by/) тогда же и приступил изучению javascript-core . Знакомство с NodeJs.
 
-В начале марта 2018 прошел в набор в школу Rolling Schools на курс "javascript разработка". Окончил курс в конце 2 этапа . После окончания школы набирался опыта в участии в проекте Личбавая майстерня ( на тот момент был одним из разработчиков модуля чата на VueJS ,интеграцией его с [Slack](https://slack.com)),созданием своих open-source проектов, проектами на фрилансе. 
+В начале марта 2018 прошел в набор в школу Rolling Schools на курс "javascript разработка". Окончил курс в конце 2 этапа . После окончания школы набирался опыта в участии в проекте Личбавая майстерня - на тот момент был одним из разработчиков модуля чата на VueJS ,интеграцией его с [Slack](https://slack.com) (модуль доступен для использования (https://github.com/diglabby/chat-widget-for-slack)),созданием своих open-source проектов, несколько проектов на фрилансе. 
 
-При работе над своими проектами столкнулся с проблемой неструктурированности задач по проекту, и приступил к изучению данных методологий **Agile, Scrum, Kanban, Trello**
+Придерживаюсь стиля по написания кода от AirBnb.
 
-Придерживаюсь стиля по написания кода от AirBnb
+### NodeJs
+
+Есть опыт по работе с API mongoDb, работе с файловой системой и потоками.
+Так же опыт использования [Vuex](https://vuex.vuejs.org/ru/) для приложений на [Vuejs](https://vuejs.org/v2/guide/)
+В своих проектах я использовал [ExpressJs](https://expressjs.com/), сейчас изучаю [KoaJs](https://koajs.com/)
 
 ### Bash ( OS Linux )
 
@@ -33,11 +37,7 @@
 
 ### SIEMENS flow
 
-В колледже на 3 курсе изучал программирование на установках SIEMENS и использованием языка step 7.
-
-
-В время изучения выше перечисленных языков были перерывы связанные с обучением в университете и тем что я веду активный образ жизни. Этим и обусловлен небольшой практический опыт и желание зарекомендовать себя на позиции как опытный junior без официального опыта работы и продвижением на позицию midle.
-
+В колледже на 3 курсе изучал программирование на установках SIEMENS и использованием языка step 7 для порграммирования роботизированных установок на лабораторных работах.
 
 </div>
 
@@ -73,12 +73,14 @@
 
 ### Action script
 
-Приступил к изучению на начало 02.2018 года. В виду очевидной неактуальности технологию в будущем отказался от дальнейшего изучения.
+Приступил к изучению на начало февраля 2018 года. В виду очевидной неактуальности технологию в будущем - отказался от дальнейшего изучения.
+
+### Какую позицию я хотел бы занять в вашей компании.
+
+Я хотел бы преумножить свой практический опыт в выше перечисленном стэке, и хотел бы  зарекомендовать себя на позиции как опытный junior - без официального опыта работы и продвижением на позицию midle в вашей компании в течении полугода.
 
 </div>
-
 </div>
-
 </div>
 
 <div class="design-wrap">
@@ -87,10 +89,10 @@
 
 <div class="container-md">
 
-Есть опыт по написанию тестов интерфейса на примере пользовательских историй, с использованием стэка  * [Selenium server (Java)](https://www.seleniumhq.org)
- * [WebDriver](http://webdriver.io/api.html)
-[Просмотрел курс по UX/UI от Яндекс школы](https://www.youtube.com/watch?v=iqHWl06dSaE&list=PLRGs42pjA4ukpjurmwFzJfSCZcur01vki)
-[Изучил и составил краткое наглядное пособие-шпаргалку по теории цвета и цветовым схемам для недизайнеров.](https://github.com/olegtempl/manual-color-scheme)
+Есть опыт по написанию тестов интерфейса на примере пользовательских историй, с использованием стэка[Selenium server (Java)](https://www.seleniumhq.org) и [WebDriver](http://webdriver.io/api.html)
+
+Просмотрел курс по UX/UI [от Яндекс школы](https://www.youtube.com/watch?v=iqHWl06dSaE&list=PLRGs42pjA4ukpjurmwFzJfSCZcur01vki)
+Изучил и составил краткое наглядное пособие-шпаргалку по [теории цвета и цветовым схемам для недизайнеров.](https://github.com/olegtempl/manual-color-scheme)
 
 </div>
 
@@ -98,9 +100,12 @@
 
 ### Project management
 
-Для ведения своих проектов я использую принципы и методы Agile.При изучении популярных Agile решений, я решил взять часть идей от лучших из них Kanbana, Scrum, XP, и применить их в своей системе. При изучении Agile, были изучены следующие книги:
+При работе над своими проектами и участием в open-source проектах, столкнулся с проблемой неструктурированности задач по проекту, и приступил к изучению данных методологий **Agile, Scrum, Kanban**
+Для ведения своих проектов я использую принципы и методы Agile.Я решил взять часть идей из них Kanbana, Scrum, XP при изучении Agile, мною были изучены следующие книги:
 
-[Scrum и kanban: выжимаем максимум](http://scrum.org.ua/wp-content/uploads/ScrumAndKanbanRuFinal.pdf)[Гибкие методологии разработки](https://tados.ru/wp-content/uploads/2017/04/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%92%D0%BE%D0%BB%D1%8C%D1%84%D1%81%D0%BE%D0%BD_%D0%93%D0%B8%D0%B1%D0%BA%D0%B8%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8.pdf)[10 Different kanban boards and their context ( Отличный визуальный мануал от Crisp)](http://blog.crisp.se/mattiasskarin/files/pdf/10different_kanban_boards_and_their_context_mskarin.pdf)<span>Есть опыт использования сервиса Trello. Постоянно используеться в одном open-source проекте в котором я принимаю участие.[Я так же составил шпаргалку по наиболее часто мною использующимся горячим клавишам которые - для начинающих.](https://github.com/olegtempl/manual-trello-hotkeys)</span></div>
+[Scrum и kanban: выжимаем максимум](http://scrum.org.ua/wp-content/uploads/ScrumAndKanbanRuFinal.pdf)[Гибкие методологии разработки](https://tados.ru/wp-content/uploads/2017/04/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%92%D0%BE%D0%BB%D1%8C%D1%84%D1%81%D0%BE%D0%BD_%D0%93%D0%B8%D0%B1%D0%BA%D0%B8%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8.pdf)[10 Different kanban boards and their context ( Отличный визуальный мануал от Crisp)](http://blog.crisp.se/mattiasskarin/files/pdf/10different_kanban_boards_and_their_context_mskarin.pdf)
+
+Есть опыт использования сервиса Trello. Я так же составил шпаргалку по наиболее часто мною использующимся [горячим клавишам для начинающих использовать trello](https://github.com/olegtempl/manual-trello-hotkeys)
 
 <div class="events-wrap">
 
@@ -108,9 +113,9 @@
 
 ## My online courses:
 
-*   <span><a href="https://www.codecademy.com/"></a>Code academy (Html, css)</span>
-*   <span><a href="https://www.bitdegree.org"></a>Bit degree (Web design)</span>
-*   <span><a href="https://school.rollingscopes.com/"></a>The Rolling Scopes School (Js-core)</span>
+*   <a href="https://www.codecademy.com/">Code academy (Html, css)</a>
+*   <a href="https://www.bitdegree.org">Bit degree (Web design)</a>
+*   <a href="https://school.rollingscopes.com/">The Rolling Scopes School (Js-core)</a>
 
 </div>
 
@@ -119,7 +124,7 @@
 ## Meetups and conference:
 
 * [Boot camp](https://www.facebook.com/falanster.by/posts/1780169028709060)
-* <span>[SPA meetup Minsk](https://events.dev.by/80997)</span>
+* [SPA meetup Minsk](https://events.dev.by/80997)
 </div>
 
 </div>
@@ -136,7 +141,8 @@
 
 <div class="my-projects">
 
-<div class="project">[Easy Light Project](https://github.com/olegtempl/easy-light-project)<span>NodeJs</span>
+[Easy Light Project](https://github.com/olegtempl/easy-light-project)
+<span>NodeJs</span>
 
 [Markdown bundler](https://github.com/olegtempl/node-md-bundler/node-md-bundler)
 <span>NodeJs</span>]
@@ -153,7 +159,7 @@
 [License library](https://github.com/olegtempl/license-library)
 <span>NodeJs</span>
 
-[Cl.log()]((https://github.com/olegtempl/node-cl-log)
+[Cl.log]((https://github.com/olegtempl/node-cl-log)
 <span>NodeJs</span>
 
 [GitHub activity](https://github.com/olegtempl/gactive)
@@ -174,9 +180,9 @@
 
 <div class="my-projects">
 
-<div class="project">[<span>Html css</span>](https://github.com/diglabby/diglab_landing_page)</div>
+<div class="project">[Html css](https://github.com/diglabby/diglab_landing_page)</div>
 
-<div class="project">[<span>VueJs</span>](https://github.com/diglabby/chat-widget-for-slack)</div>
+<div class="project">[VueJs](https://github.com/diglabby/chat-widget-for-slack)</div>
 
 Участник open-source сообщества.
 
