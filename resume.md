@@ -1,80 +1,43 @@
-<header></header>
-
-<main>
-
-<div class="biography-wrap">
-
-<div class="data-biography-block">
-
-<div class="my-photo">![I am the champion!](my-photo)</div>
-
 <div class="my-biography">
-
-## Биография
-
-Окончил колледж МГК Электроники по специальности "Мехатроник-наладчик технологического оборудования" с получением квалификации 6 разряда. В колледже на 3 курсе изучал программирование на установках SIEMENS и использованием языка step 7 ( ?????). По окончанию колледжа приступил к работе по специальности на 3 года по целевому распределению. По окончанию 1-го года отработки поступил в университет БНТУ по специальности "Микро-нано технологии" где и продолжаю обучение до настоящего момента.
-
-...
-
-...
-
-Участник open-source сообщества ( сделал ревест с переводом style guide по js,css,scss коду от AirBnb - его и придерживаюсь в своих проектах)
-
-Участник проекта Личбавая майстерня ( отвечаю за изменение и модернизацию сайта (ссылку) и деплоймент на сервер)
-
-Турист-активист, активный велосипедист. Сертифицированный руководитель пеших походов 1 и 2 категорий сложности ( сертификат выдан РТСС ( расшифровать )). В прошлом чемпион республики и многократный участник и победитель международных соревнований по шахматам, присвоено звание "Кандидат в мастера спорта". Помогаю в обучении детей шахматам.
-
-</div>
-
-</div>
-
-</div>
-
-<div class="experience-wrap">
 
 ## Опыт в программировании
 
-<div class="my-experience">
-
-<div class="languages-wrap">
-
-<div class="script-languages">
-
-<div class="conrainer">
-
-<div class="js">
-
 ### Javascript ( js-core, js-DOM, VueJs, NodeJs)
 
-</div>
+В начале февраля 2018 вступил в проект Личбавая [Майстерня](https://it.falanster.by/) тогда же и приступил изучению javascript-core . Знакомство с NodeJs.
 
-</div>
+В начале марта 2018 прошел в набор в школу Rolling Schools на курс "javascript разработка". Окончил курс в конце 2 этапа . После окончания школы набирался опыта в участии в проекте Личбавая майстерня ( на тот момент был одним из разработчиков модуля чата на VueJS ,интеграцией его с [Slack](https://slack.com)),созданием своих open-source проектов, проектами на фрилансе. 
 
-В начале 02.2018 вступил в проект Личбавая Майстерня ( ссылку ) тогда же и приступил изучению javascript-core . Знакомство с NodeJs.
+При работе над своими проектами столкнулся с проблемой неструктурированности задач по проекту, и приступил к изучению данных методологий **Agile, Scrum, Kanban, Trello**
 
-В начале 03.2018 прошел в набор в школу Rolling Schools на курс "javascript разработка". Окончил курс в конце 2 этапа в связи с разработкой сообственных проектов, участием в проекте Личбавая майстерня ( на тот момент был одним из разработчиков модуля чата на VueJS ,интеграцией его с [Slack]() ) и скорым окончанием контракта по месту отработки.
-
-При работе над своими проектами столкнулся с проблемой неструктурированности задач по проекту, и приступил к изучению данных методологий **Agile, Scrum, Kanban ( [Trello]()))**
-
-В время изучения выше перечисленных языков были перерывы связанные с обучением в университете и тем что я веду активный образ жизни ( об этом более подробно можно прочитать ниже ). Этим и обусловлен небольшой практический опыт и желание зарекомендовать себя на позиции junior ( ????) и продвижением на позицию midle.
+Придерживаюсь стиля по написания кода от AirBnb
 
 ### Bash ( OS Linux )
 
-При переходе на OS Linux приступил к изучению языка BASH и настройке рабочего окружения ( с начала 08.2017) для написания скриптов автоматизирующих мои рутинные действия. Попутно изучил основы User experience, и material design ( ???)
+При переходе на OS Linux приступил к изучению языка BASH и настройке рабочего окружения ( сижу на OS linux с начала августа 2017) для написания скриптов автоматизирующих мои рутинные действия.
 
 ### Php
 
-Приступил к поверхностному изучению версиии 5.5 ( ???) в начале 03.2017 года для приобретения понимания работы ООП языков программирования. ( только теоритические понятие ООП на примере PHP ) Идея о вытеснении decstop applications ( ???) приложений в online applications ( ????) импонировала мне, и я решил продолжить изучение языков для веб-разработки.
+Приступил к поверхностному изучению версиии 5.5 в начале марта 2017 года для приобретения понимания работы языков программирования. ( только теоритические понятие на примере PHP ) Идея о вытеснении decstop applications в online applications импонировала мне, и я решил продолжить изучение языков для веб-разработки.
+
+### Design, UX/UI
+
+Изучил основы material design, web design, UI/UX. 
+ * [Просмотрел курс по UX/UI от Яндекс школы](https://www.youtube.com/watch?v=iqHWl06dSaE&list=PLRGs42pjA4ukpjurmwFzJfSCZcur01vki)
+ * [Изучил и составил краткое наглядное пособие-шпаргалку по теории цвета и цветовым схемам для недизайнеров.](https://github.com/olegtempl/manual-color-scheme)
+
+В процессе изучения книги [Стива  Круга Веб-дизайн или «не  заставляйте  меня  думать!»](http://www.school7keys.com/files/File/krug_web_design.pdf)
 
 </div>
 
-<div class="oop-languages">
 
-### Pascal
+### SIEMENS flow
 
-Начал изучать Pascal ABC при поступлении в университет, тогда и появилось желание попробывать изучить и другие языки программирования.
+В колледже на 3 курсе изучал программирование на установках SIEMENS и использованием языка step 7.
 
-</div>
+
+В время изучения выше перечисленных языков были перерывы связанные с обучением в университете и тем что я веду активный образ жизни. Этим и обусловлен небольшой практический опыт и желание зарекомендовать себя на позиции как опытный junior без официального опыта работы и продвижением на позицию midle.
+
 
 </div>
 
@@ -86,7 +49,7 @@
 
 ### Html
 
-Приступил к изучению API,семантики и сеточной верстке ( Bootrap grid, 12\16 column) c середины 04.2018\. На тот момент 1 небольшой проект.
+Приступил к изучению API,семантики и сеточной верстке ( Bootrap grid, 12\16 column) c середины апреля 2017 . На тот момент 1 небольшой проект.
 
 ### Markdown
 
@@ -94,7 +57,7 @@
 
 ### Jade/Pug
 
-Из языков шаблонизаторов я предпочитаю использовать Jade/Pug.
+Из языков шаблонизаторов я предпочитаю использовать Jade/Pug. Опыт верстки 3 полноценных адаптивных сайта.
 
 </div>
 
@@ -102,7 +65,11 @@
 
 ### Css ( sass,scss )
 
-Приступил к изучению css с середины 07.2017\. По книге Мак Фларрен Большой css (??) .Препроцессор scss. Фреймворки ( под капотом) Bootrap, различные open-source библиотеки.
+Приступил к изучению css с середины июля 2017года. По книге[Дэвид Макфарланд, 2016 - Новая большая книга CSS](https://oz.by/books/more10495645.html)
+Опыт в использовании
+ * препроцессор scss
+ * Фреймворк Bootrap, bootrap и flexbox сеток.
+ * Есть свой фреймворк на основе open-source библиотеки
 
 ### Action script
 
@@ -118,7 +85,12 @@
 
 ### Design, UX/UI
 
-<div class="container-md"><span>Есть опыт по написанию тестов интерфейса на примере пользовательских историй, с использованием стэка[Selenium server (Java)](http://)[WebDriver (http://webdriver.io/api.html)](http://)</span>[Просмотрел курс по UX/UI от Яндекс школы](https://www.youtube.com/watch?v=iqHWl06dSaE&list=PLRGs42pjA4ukpjurmwFzJfSCZcur01vki)[Изучил и составил краткое наглядное пособие-шпаргалку по теории цвета и цветовым схемам для недизайнеров.](https://github.com/olegtempl/manual-color-scheme)</div>
+<div class="container-md">
+
+Есть опыт по написанию тестов интерфейса на примере пользовательских историй, с использованием стэка  * [Selenium server (Java)](https://www.seleniumhq.org)
+ * [WebDriver](http://webdriver.io/api.html)
+[Просмотрел курс по UX/UI от Яндекс школы](https://www.youtube.com/watch?v=iqHWl06dSaE&list=PLRGs42pjA4ukpjurmwFzJfSCZcur01vki)
+[Изучил и составил краткое наглядное пособие-шпаргалку по теории цвета и цветовым схемам для недизайнеров.](https://github.com/olegtempl/manual-color-scheme)
 
 </div>
 
@@ -136,8 +108,9 @@
 
 ## My online courses:
 
-*   <span>Code-academy<a href=""></a></span>
-*   <span><a href=""></a></span>
+*   <span><a href="https://www.codecademy.com/"></a>Code academy (Html, css)</span>
+*   <span><a href="https://www.bitdegree.org"></a>Bit degree (Web design)</span>
+*   <span><a href="https://school.rollingscopes.com/"></a>The Rolling Scopes School (Js-core)</span>
 
 </div>
 
@@ -145,8 +118,8 @@
 
 ## Meetups and conference:
 
-*   <span>SPA meetup Minsk[](https://events.dev.by/80997)</span>
-
+* [Boot camp](https://www.facebook.com/falanster.by/posts/1780169028709060)
+* <span>[SPA meetup Minsk](https://events.dev.by/80997)</span>
 </div>
 
 </div>
@@ -163,39 +136,41 @@
 
 <div class="my-projects">
 
-<div class="project">[![Easy Light Project](./images/projectsLogo "ELP")<span>NodeJs</span>](https://github.com/olegtempl/easy-light-project)</div>
+<div class="project">[Easy Light Project](https://github.com/olegtempl/easy-light-project)<span>NodeJs</span>
 
-<div class="project">[![Markdown bundler](./images/projectsLogo "Markdown bundler")<span>NodeJs</span>](https://github.com/olegtempl/node-md-bundler/node-md-bundler)</div>
+[Markdown bundler](https://github.com/olegtempl/node-md-bundler/node-md-bundler)
+<span>NodeJs</span>]
 
-<div class="project">[![Readme bundler](./images/projectsLogo "Readme bundler")<span>NodeJs</span>](https://github.com/olegtempl/readme-bundler)</div>
+[Readme bundler](https://github.com/olegtempl/readme-bundler)
+<span>NodeJs</span>]
 
-<div class="project">[![Shell bundler](./images/projectsLogo "Shell bundler")<span>NodeJs</span>](https://github.com/olegtempl/node-sh-bundler)</div>
+[Shell bundler](https://github.com/olegtempl/node-sh-bundler)
+<span>NodeJs</span>]
 
-<div class="project">[![Html bundler](./images/projectsLogo "Html bundler")<span>NodeJs</span>](https://github.com/olegtempl/node-html-bundler)</div>
+[Html bundler](https://github.com/olegtempl/node-html-bundler)
+<span>NodeJs</span>]
 
-<div class="project">[![License library](./images/projectsLogo "License library")<span>NodeJs</span>](https://github.com/olegtempl/license-library)</div>
+[License library](https://github.com/olegtempl/license-library)
+<span>NodeJs</span>
 
-<div class="project">[![Cl.log()](./images/projectsLogo/ "Cl.log()")<span>NodeJs</span>](https://github.com/olegtempl/node-cl-log)</div>
+[Cl.log()]((https://github.com/olegtempl/node-cl-log)
+<span>NodeJs</span>
 
-<div class="project">[![GitHub activity](./images/projectsLogo "gActive")<span>NodeJs</span>](https://github.com/olegtempl/gactive)</div>
+[GitHub activity](https://github.com/olegtempl/gactive)
+<span>GitHub Api , javascript </span>
 
-<div class="project">[![Markdown to Html converter](./images/projectsLogo "m2h")<span>NodeJs</span>](https://github.com/olegtempl/node-m2h)</div>
+[Markdown to Html converter](https://github.com/olegtempl/node-m2h)
+<span>NodeJs</span>
 
-<div class="project">[![Bad data generator](./images/projectsLogo "Bad Gen")<span>NodeJs</span>](https://github.com/olegtempl/bad-data-generator)</div>
-
-<div class="project">[![](./images/projectsLogo)<span>NodeJs</span>](https://github.com/olegtempl/)</div>
-
-<div class="project">[![](./images/projectsLogo)<span></span>](https://github.com/olegtempl/)</div>
-
-<div class="project">[![](./images/projectsLogo)<span></span>](https://github.com/olegtempl/)</div>
+[Bad data generator](https://github.com/olegtempl/bad-data-generator)
+<span>NodeJs</span>
 
 </div>
 
 </div>
 
-<div class="contribuite-projects-wrap">
 
-## Проекты в которых я принимал учатие, opem-source, freelance проекты.
+## Оpen-source проекты в которых я принимал учатие - .
 
 <div class="my-projects">
 
@@ -203,56 +178,13 @@
 
 <div class="project">[<span>VueJs</span>](https://github.com/diglabby/chat-widget-for-slack)</div>
 
-<div class="project"><a href=""><span></span></a></div>
+Участник open-source сообщества.
 
-</div>
+Участник проекта Личбавая майстерня ( отвечаю за изменение и модернизацию сайта (ссылку) и деплоймент на сервер)
 
-</div>
+Турист-активист, активный велосипедист. Сертифицированный руководитель пеших походов 1 и 2 категорий сложности ( сертификат выдан РТСС ). В прошлом чемпион республики и многократный участник и победитель международных соревнований по шахматам, присвоено звание "Кандидат в мастера спорта". Помогаю в обучении детей шахматам.
 
-</div>
 
-</main>
-
-<footer>
-
-<div class="my-profiles">
-
-<div class="my-profile-platforms">
-
-## My profiles on codding and freelance platforms:
-
-*   <a class="tag" href="">Habrahabr</a>
-*   <a class="tag" href="">Toster</a>
-*   <a class="tag" href="">Npm</a>
-*   <a class="tag" href="">Github</a>
-*   <a class="tag" href="">Gitbucket</a>
-*   <a class="tag" href="">Heroku</a>
-*   <a class="tag" href="">Codewars</a>
-*   <a class="tag" href="">Fl.ru</a>
-
-</div>
-
-</div>
-
-<div class="my-contacts-wrap">
-
-<div class="my-contacts">
-
-## My contacts:
-
-*   <a class="tag" href="">My blog</a>
-*   <a class="tag" href="">LinkelIn</a>
-*   <a class="tag" href="">Gmail</a>
-*   <a class="tag" href="">Mail.ru</a>
-
-</div>
-
-<div class="copyright">
 
 Copyright Oleg Medvedev 2018
 
-</div>
-
-</div>
-
-</footer>
