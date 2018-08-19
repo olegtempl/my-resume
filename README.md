@@ -46,19 +46,20 @@
 
 ## Список моих проектов:
 
-[![Easy Light Project](./images/projectsLogo "ELP")](https://github.com/olegtempl/easy-light-project) 
-[![Markdown bundler](./images/projectsLogo "Markdown bundler")](https://github.com/olegtempl/node-md-bundler/node-md-bundler) 
-[![Readme bundler](./images/projectsLogo "Readme bundler")](https://github.com/olegtempl/readme-bundler) 
-[![Shell bundler](./images/projectsLogo "Shell bundler")](https://github.com/olegtempl/node-sh-bundler) 
-[![Html bundler](./images/projectsLogo "Html bundler")](https://github.com/olegtempl/node-html-bundler) 
-[![License library](./images/projectsLogo "License library")](https://github.com/olegtempl/license-library) 
-[![Cl.log()](./images/projectsLogo/ "Cl.log()")](https://github.com/olegtempl/node-cl-log) 
-[![GitHub activity](./images/projectsLogo "gActive")](https://github.com/olegtempl/gactive) 
-[![Markdown to Html converter](./images/projectsLogo "m2h")](https://github.com/olegtempl/node-m2h) 
-[![Bad data generator](./images/projectsLogo "Bad Gen")](https://github.com/olegtempl/bad-data-generator) 
-[![](./images/projectsLogo)](https://github.com/olegtempl/) 
-[![](./images/projectsLogo)](https://github.com/olegtempl/) 
-[![](./images/projectsLogo)](https://github.com/olegtempl/)
+[![Easy Light Project](./images/elp.png "ELP")](https://github.com/olegtempl/easy-light-project) 
+[![Markdown bundler](./images/markdown_bundler.png "Markdown bundler")](https://github.com/olegtempl/node-md-bundler/node-md-bundler) 
+[![Readme bundler](./images/readme_bundler.png "Readme bundler")](https://github.com/olegtempl/readme-bundler) 
+[![Shell bundler](./images/shell_bundler.png "Shell bundler")](https://github.com/olegtempl/node-sh-bundler) 
+[![Html bundler](./images/html_bundler.png "Html bundler")](https://github.com/olegtempl/node-html-bundler) 
+[![License library](./images/licence_library.png "License library")](https://github.com/olegtempl/license-library) 
+[![Cl.log()](./images/cl-log.png "Cl.log()")](https://github.com/olegtempl/node-cl-log) 
+[![FHC](./images/fhc.png )](https://github.com/olegtempl/) 
+[![bear-software blog](./images/bear_software.png)](https://github.com/olegtempl/) 
+[![M2H](./images/m2h.png)](https://github.com/olegtempl/)
+<!-- [![GitHub activity](./images/projectsLogo "gActive")](https://github.com/olegtempl/gactive)  -->
+<!-- [![Bad data generator](./images/projectsLogo "Bad Gen")](https://github.com/olegtempl/bad-data-generator)  -->
+<!-- [![Tomato journal](./images/t_journal.png)](https://github.com/olegtempl/) -->
+<!-- [![](./images/projectsLogo)](https://github.com/olegtempl/) -->
 
 ## My contacts:
 
