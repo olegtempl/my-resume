@@ -1,209 +1,67 @@
-<div class="my-biography">
 
-## Опыт в программировании
+Разделяю мнение [Вадима Семёновича Зицера](cyclowiki.org/wiki/Вадим_Семёнович_Зицер) на счет обучения молодежи и его целостную систему современной практики гуманистической педагогики (неформального образования — НО). Регулярно посещаю митапы и конференции посвященные front-end разработке. Делаю вольные переводы документаций на русский и беларуский языки.
 
-### Javascript ( js-core, js-DOM, VueJs)
+...
 
-В начале февраля 2018 вступил в проект [Личбавая Майстерня](https://it.falanster.by/) тогда же и приступил изучению javascript-core . Знакомство с NodeJs.
+Не женат, детей не имею.
+Возможна релокация.
+График работы - гибкий, возможна как полная так и неполная удаленная занятость.
 
-В начале марта 2018 прошел в набор в школу [Rolling Schools](https://school.rollingscopes.com) на курс "javascript разработка". Окончил курс в конце 2 этапа . После окончания школы набирался опыта в участии в проекте [Личбавая майстерня](https://it.falanster.by/) - на тот момент был одним из разработчиков модуля чата на VueJS ,интеграцией его с [Slack](https://slack.com) ([модуль доступен для использования] (https://github.com/diglabby/chat-widget-for-slack)) ,созданием своих open-source проектов, несколько проектов на фрилансе. 
-
-Придерживаюсь стиля по написания кода от AirBnb - для соблюдения стиля коддирования использую:
- * [eslintrc](https://eslint.org/)
- * [jsbeautifyrc](https://github.com/beautify-web/js-beautify)
- * [editorconfig](https://editorconfig.org/)
-
-В своих проектах тестирование кода провожу по технике разработки программного обеспечения [TDD](https://en.wikipedia.org/wiki/Test-driven_development) c использованием [jasmine](https://jasmine.github.io/)
-
-
-### NodeJs
-
-Есть опыт по работе с API mongoDb, работе с файловой системой и потоками.
-Так же опыт использования [Vuex](https://vuex.vuejs.org/ru/) для приложений на [Vuejs](https://vuejs.org/v2/guide/)
-В своих проектах я использовал [ExpressJs](https://expressjs.com/), сейчас изучаю [KoaJs](https://koajs.com/)
-
-### Bash ( OS Linux )
-
-При переходе на OS Linux приступил к изучению языка BASH и настройке рабочего окружения ( сижу на OS linux с начала августа 2017) для написания скриптов автоматизирующих мои рутинные действия и выполнением дейтсвий через командную строку.
-Активно использую сервисы [GitHub](https://github.com) и [GitBucket](https://bitbucket.org) для версирования своих проектов, стараюсь придерживаться методологии [семантического версирования](https://semver.org/)
-
-### Php
-
-Приступил к поверхностному изучению версиии 5.5 в начале марта 2017 года для приобретения понимания работы языков программирования. ( только теоритические понятие на примере PHP ) Идея о вытеснении decstop applications в online applications импонировала мне, и я решил продолжить изучение языков для веб-разработки.
-
-### Design, UX/UI
-
-Изучил основы material design, web design, UI/UX. 
- * Просмотрел[курс по UX/UI от Яндекс школы](https://www.youtube.com/watch?v=iqHWl06dSaE&list=PLRGs42pjA4ukpjurmwFzJfSCZcur01vki)
- * Изучил и составил краткое наглядное пособие-шпаргалку по[теории цвета и цветовым схемам для недизайнеров.](https://github.com/olegtempl/manual-color-scheme)
-
-В процессе изучения книги [Стива  Круга Веб-дизайн или «не  заставляйте  меня  думать!»](http://www.school7keys.com/files/File/krug_web_design.pdf)
-
-</div>
-
-
-### Siemens flow
-
-В колледже на 3 курсе изучал программирование на установках SIEMENS и использованием языка step 7 для порграммирования роботизированных установок на лабораторных работах.
-
-</div>
-
-<div class="markup-and-layout-wrap">
-
-<div class="markup-language">
-
-### Языки разметки ( html, md, Jade/Pug )
-
-### Html
-
-Приступил к изучению API,семантики и сеточной верстке ( Bootrap grid, 12\16 column) c середины апреля 2017 . На тот момент 1 небольшой проект.
-
-### Markdown
-
-Есть много опыта по написанию и оформлению документации к проектам, ко всем моим проектам я всегда пишу документацию т.к. это важный аспект для легкого вхождения в проект новых участников - что особенно важно в open-source проектах.
-
-### Jade/Pug
-
-Из языков шаблонизаторов я предпочитаю использовать Jade/Pug. Опыт верстки 3 полноценных адаптивных сайта.
-
-</div>
-
-<div class="layout-languages">
-
-### Css ( sass,scss )
-
-Приступил к изучению css с середины июля 2017года. По книге [Дэвид Макфарланд, 2016 - Новая большая книга CSS](https://oz.by/books/more10495645.html)
-Опыт в использовании
- * препроцессор scss
- * Фреймворк Bootrap, bootrap и flexbox сеток.
- * Есть свой фреймворк на основе open-source библиотеки
-
-### Action script
-
-Приступил к изучению на начало февраля 2018 года. В виду очевидной неактуальности технологию в будущем - отказался от дальнейшего изучения.
-
-### Какую позицию я хотел бы занять в вашей компании.
-
-Я хотел бы преумножить свой практический опыт в выше перечисленном стэке, и хотел бы  зарекомендовать себя на позиции как опытный junior - без официального опыта работы и продвижением на позицию midle в вашей компании в течении полугода.
-
-</div>
-</div>
-</div>
-
-<div class="design-wrap">
-
-### Design, UX/UI
-
-<div class="container-md">
-
-Есть опыт по написанию тестов интерфейса на примере пользовательских историй, с использованием стэка [Selenium server (Java)](https://www.seleniumhq.org) и [WebDriver](http://webdriver.io/api.html)
-
-Просмотрел курс по UX/UI [от Яндекс школы](https://www.youtube.com/watch?v=iqHWl06dSaE&list=PLRGs42pjA4ukpjurmwFzJfSCZcur01vki)
-Изучил и составил краткое наглядное пособие-шпаргалку по [теории цвета и цветовым схемам для недизайнеров.](https://github.com/olegtempl/manual-color-scheme)
-
-</div>
-
-<div class="project-manager-wrap">
-
-### Project management
-
-При работе над своими проектами и участием в open-source проектах, столкнулся с проблемой неструктурированности задач по проекту, и приступил к изучению данных методологий **Agile, Scrum, Kanban**
-Для ведения своих проектов я использую принципы и методы Agile.Я решил взять часть идей из них Kanbana, Scrum, XP при изучении Agile, мною были изучены следующие книги:
- * [Scrum и kanban: выжимаем максимум](http://scrum.org.ua/wp-content/uploads/ScrumAndKanbanRuFinal.pdf)
- * [Гибкие Методологии разработки](https://tados.ru/wp-content/uploads/2017/04/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%92%D0%BE%D0%BB%D1%8C%D1%84%D1%81%D0%BE%D0%BD_%D0%93%D0%B8%D0%B1%D0%BA%D0%B8%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8.pdf)
-  * [10 Different kanban boards and their context ( Отличный визуальный мануал от Crisp)](http://blog.crisp.se/mattiasskarin/files/pdf/10different_kanban_boards_and_their_context_mskarin.pdf)
-
-Есть опыт использования сервиса Trello. Я так же составил шпаргалку по наиболее часто мною использующимся [горячим клавишам для начинающих использовать trello](https://github.com/olegtempl/manual-trello-hotkeys)
-
-<div class="events-wrap">
-
-<div class="courses">
+Есть опыт по следующим позициям:
+ * css ([scss](https://sass-lang.com/), [smacss](https://smacss.com/), [bootrap framework](https://v4-alpha.getbootstrap.com), [bootrap grid](https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp) and [flexboxgrid](http://flexboxgrid.com/))
+ * html ([pug/jade](https://pugjs.org/api/getting-started.html), [semantic layout](https://blogs.msdn.microsoft.com/jennifer/2011/08/01/html5-part-1-semantic-markup-and-page-layout/), [html5](https://www.w3schools.com/html/html5_intro.asp), experience of layout: 3 adaptive sites)
+ * js ( [vueJs](https://vuejs.org/v2/guide/) - 1 project, [reactJs](https://reactjs.net/), [jsx](https://jsx.github.io/), [webpack](https://webpack.js.org), [rollup](https://github.com/rollup), [gulp](https://gulpjs.com/), core-js)
+ * nodeJs ([ExpressJs](https://expressjs.com/), [KoaJs](https://koajs.com/), [Vuex](https://vuex.vuejs.org/ru/))
+ * database ([mongoDb](https://www.mongodb.com/) - 1 project)
+ * OS linux ( [bash](https://www.gnu.org/software/bash/), [lua](https://www.lua.org/))
+ * project version ([GitHub](https://github.com), [GitBucket](https://bitbucket.org), [semantic version project](https://semver.org/))
+ * tests (GUI-[selenium](https://www.seleniumhq.org)/[webdriver](http://webdriver.io/api.html), [jasmine](https://jasmine.github.io/), [jest](https://jestjs.io/), [TDD development](https://en.wikipedia.org/wiki/Test-driven_development))
+ * UI/UX (I watched [course on UX / UI from Yandex school](https://www.youtube.com/watch?v=iqHWl06dSaE&list=PLRGs42pjA4ukpjurmwFzJfSCZcur01vki), studied and compiled a short visual aid-cheat sheet on [color theory and color schemes for non-designers.](Https://github.com/olegtempl/manual-color-scheme))
+ * project management ([kandan](http://blog.crisp.se/mattiasskarin/files/pdf/10different_kanban_boards_and_their_context_mskarin.pdf)/[xp](https://tados.ru/wp-content/uploads/2017/04/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%92%D0%BE%D0%BB%D1%8C%D1%84%D1%81%D0%BE%D0%BD_%D0%93%D0%B8%D0%B1%D0%BA%D0%B8%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8.pdf)/[scrum](http://scrum.org.ua/wp-content/uploads/ScrumAndKanbanRuFinal.pdf), (trello)[https://trello.com/])
+ Я активно использую kandan доски в своих проектах и повседневной жизни и на основе накопленного опыта спроектировал сообственную методологию на основе xp, scrum и kanban.
+ * md (There is a lot of experience in writing and preparing documentation for projects, I always write documentation for all my projects. this is an important aspect for easy entry into the project of new participants - which is especially important in open-source projects.)
+ * I adhere to the style of writing code from AirBnb - to comply with the coding style I use:
+   [eslintrc](https://eslint.org/)
+   [prettier](https://github.com/prettier/prettier)
+   [jsbeautifyrc](https://github.com/beautify-web/js-beautify)
+   [editorconfig](https://editorconfig.org/)
 
 ## My online courses:
 
-*   <a href="https://www.codecademy.com/">Code academy (Html, css)</a>
-*   <a href="https://www.bitdegree.org">Bit degree (Web design)</a>
-*   <a href="https://school.rollingscopes.com/">The Rolling Scopes School (Js-core)</a>
-
-</div>
-
-<div class="events">
-
-## Meetups and conference:
-
-* [Boot camp](https://www.facebook.com/falanster.by/posts/1780169028709060)
-* [SPA meetup Minsk](https://events.dev.by/80997)
-</div>
-
-</div>
-
-</div>
-
-<div class="projects-wrap">
-
-<div class="my-projects-wrap">
-
-## Мои проекты
-
-## Проекты в которых я принимал учатие, open-source, freelance проекты.
-
-<div class="my-projects">
-
-[Easy Light Project](https://github.com/olegtempl/easy-light-project)
-<span>NodeJs</span>
-
-[Markdown bundler](https://github.com/olegtempl/node-md-bundler/node-md-bundler)
-<span>NodeJs</span>]
-
-[Readme bundler](https://github.com/olegtempl/readme-bundler)
-<span>NodeJs</span>]
-
-[Shell bundler](https://github.com/olegtempl/node-sh-bundler)
-<span>NodeJs</span>]
-
-[Html bundler](https://github.com/olegtempl/node-html-bundler)
-<span>NodeJs</span>]
-
-[License library](https://github.com/olegtempl/license-library)
-<span>NodeJs</span>
-
-[Cl.log](https://github.com/olegtempl/node-cl-log)
-<span>NodeJs</span>
-
-[GitHub activity](https://github.com/olegtempl/gactive)
-<span>GitHub Api , javascript </span>
-
-[Markdown to Html converter](https://github.com/olegtempl/node-m2h)
-<span>NodeJs</span>
-
-[Bad data generator](https://github.com/olegtempl/bad-data-generator)
-<span>NodeJs</span>
-
-</div>
-
-</div>
+* [Code academy (Html, css)](https://www.codecademy.com/)
+* [Bit degree (Web design)](https://www.bitdegree.org)
+* [The Rolling Scopes School (Js-core)](https://school.rollingscopes.com)
 
 
-## Оpen-source проекты в которых я принимал учатие.
+## Какую позицию я хотел бы занять в вашей компании.
 
-<div class="my-projects">
+Я хотел бы преумножить свой практический опыт полученный в своих и open-source проектах в выше перечисленном стэке, и хотел бы зарекомендовать себя на позиции как опытный junior - без официального опыта работы и продвижением на позицию midle в вашей компании в течении полугода.
 
-<div class="project">[Html css](https://github.com/diglabby/diglab_landing_page)</div>
+Более подробную информацию обо мне вы можете посмотреть [тут](http://bear-software.by/)
 
-<div class="project">[VueJs](https://github.com/diglabby/chat-widget-for-slack)</div>
+## Наиболее значимые Open-source projects in which I participated
+ 
+* [Html css](https://github.com/diglabby/diglab_landing_page)
+* [VueJs](https://github.com/diglabby/chat-widget-for-slack)
 
-Так же были сделаны несколько предложений в совсем небольшие проекты и преложен полный перевод манифеста по стилю коддирования от AirBnb на русский язык. 
+## Список моих проектов:
 
+[![Easy Light Project](./images/projectsLogo "ELP")](https://github.com/olegtempl/easy-light-project) 
+[![Markdown bundler](./images/projectsLogo "Markdown bundler")](https://github.com/olegtempl/node-md-bundler/node-md-bundler) 
+[![Readme bundler](./images/projectsLogo "Readme bundler")](https://github.com/olegtempl/readme-bundler) 
+[![Shell bundler](./images/projectsLogo "Shell bundler")](https://github.com/olegtempl/node-sh-bundler) 
+[![Html bundler](./images/projectsLogo "Html bundler")](https://github.com/olegtempl/node-html-bundler) 
+[![License library](./images/projectsLogo "License library")](https://github.com/olegtempl/license-library) 
+[![Cl.log()](./images/projectsLogo/ "Cl.log()")](https://github.com/olegtempl/node-cl-log) 
+[![GitHub activity](./images/projectsLogo "gActive")](https://github.com/olegtempl/gactive) 
+[![Markdown to Html converter](./images/projectsLogo "m2h")](https://github.com/olegtempl/node-m2h) 
+[![Bad data generator](./images/projectsLogo "Bad Gen")](https://github.com/olegtempl/bad-data-generator) 
+[![](./images/projectsLogo)](https://github.com/olegtempl/) 
+[![](./images/projectsLogo)](https://github.com/olegtempl/) 
+[![](./images/projectsLogo)](https://github.com/olegtempl/)
 
-## Кратко о себе
+## My contacts:
 
-Участник open-source сообщества.
-
-Участник проекта [Личбавая майстерня](https://it.falanster.by/) ( отвечаю за изменение и модернизацию сайта, деплоймент на сервер)
-
-Турист-активист, активный велосипедист. Сертифицированный руководитель пеших походов 1 и 2 категорий сложности ( сертификат выдан РТСС ). В прошлом чемпион республики и многократный участник и победитель международных соревнований по шахматам, присвоено звание "Кандидат в мастера спорта". Помогаю в обучении детей шахматам.
-
-
-
-Copyright Oleg Medvedev 2018
-
+* phone number: 80259654011
+* email: @bear-software.by
+* github repository: https://github.com/olegtempl
